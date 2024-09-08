@@ -1,0 +1,3 @@
+Mode(s) of grade : 20 
+Mode(s) of sex : 88 
+

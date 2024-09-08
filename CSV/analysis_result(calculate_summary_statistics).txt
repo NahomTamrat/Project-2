@@ -1,0 +1,2 @@
+Calculating statistics for column 2:
+Mean: 21

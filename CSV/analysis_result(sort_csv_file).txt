@@ -1,0 +1,12 @@
+name,age,grade,sex
+Jack,20,88,M
+Jack,20,88,M
+Ivy,23,85,F
+Hank,21,82,M
+Grace,22,90,F
+Frank,20,80,M
+Eve,23,78,F
+Diana,21,85,F
+Charlie,22,92,M
+Bob,20,75,M
+Alice,23,88,F

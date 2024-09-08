@@ -1,0 +1,3 @@
+Column: grade | Minimum value: 75 | Maximum value: 92
+Column: age | Minimum value: 20 | Maximum value: 23
+
